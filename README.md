@@ -4,6 +4,7 @@
 📫 如何联系我: 
   - QQ：863146676
   - email: zz863146675bb@icloud.com
+  - wechat: dreamalip8
   - [CSDN](https://blog.csdn.net/qwe86314)
 <!--
 **zhoubiao188/zhoubiao188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
