@@ -1,6 +1,9 @@
 ### Hi there 👋
-- 💬 keep working ...
-
+我是个菜鸟，主攻后端，目前正在不断的升级，如果你有什么特别有意思的或者难题可以联系我，我们一起解决一起成长
+📫 如何联系我: 
+  - QQ：863146676
+  - email: zz863146675bb@icloud.com
+  - [CSDN](https://blog.csdn.net/qwe86314)
 <!--
 **zhoubiao188/zhoubiao188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
