@@ -5,8 +5,6 @@
 我是个菜鸟，主攻后端，目前正在不断的升级，如果你有什么特别有意思的或者难题可以联系我，我们一起解决一起成长。<br/>
 风满楼，卷黄沙，舞剑春秋，名震天下。雨缥缈，倦红尘，还君明珠，秋水浮萍。<br/>
 📫 如何联系我: 
-  - email: zz863146675bb@icloud.com
-  - wechat: dreamalip8
   - [CSDN](https://blog.csdn.net/qwe86314)
 <!--
 **zhoubiao188/zhoubiao188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
